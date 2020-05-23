@@ -1,0 +1,5 @@
+codeup总结
+1.宽度占7位  ，小数部分2位		%7.2lf
+2.fibonacii   2.4-h  2.5小节,2.6小节
+3.reverse 反转   sort默认从小到大排序
+4.cstring  头文件
